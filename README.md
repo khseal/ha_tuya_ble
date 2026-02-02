@@ -37,8 +37,9 @@ The integration works locally, but connection to Tuya BLE device requires device
 * CO2 sensors (category_id 'co2bj')
   + CO2 Detector (product_id '59s19z5m').
 
-* Smart Locks (category_id 'ms')
+* Smart Locks (category_id 'ms', 'jtmspro')
   + Smart Lock (product_id 'ludzroix', 'isk2p555', 'mqc2hevy').
+  + A1 Ultra-JM (product_id 'hc7n0urm').
 
 * Climate (category_id 'wk')
   + Thermostatic Radiator Valve (product_ids 'drlajpqc', 'nhj2j7su').
@@ -50,5 +51,3 @@ The integration works locally, but connection to Tuya BLE device requires device
   + Irrigation computer (product_id '6pahkcau')
   + 2-outlet irrigation computer SGW02 (product_id 'hfgdqhho'), also known as MOES BWV-YC02-EU-GY
 
-* JTMS Pro (category_id 'jtmspro')
-  + A1 Ultra-JM (product_id 'hc7n0urm')

@@ -35,6 +35,9 @@
       },
       "manual_lock": {
         "name": "Manual Lock"
+      },
+      "ble_unlock_check": {
+        "name": "Unlock"
       }
     },
     "number": {
@@ -153,6 +156,9 @@
       },
       "alarm_lock": {
           "name": "Alarm"
+      },
+      "power_off": {
+          "name": "Power off"
       },
       "wrong_finger": {
           "name": "Wrong Fingerprint"

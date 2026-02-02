@@ -43,6 +43,9 @@
             },
             "bluetooth_unlock": {
                 "name": "Разблокировать"
+            },
+            "ble_unlock_check": {
+                "name": "Разблокировать"
             }
         },
         "number": {
@@ -138,7 +141,8 @@
                 "state": {
                     "wrong_finger": "Неверный отпечаток",
                     "wrong_password": "Неверный пароль",
-                    "low_battery": "Низкий заряд батареи"
+                    "low_battery": "Низкий заряд батареи",
+                    "power_off": "Питание отключено"
                 }
             },
             "battery": {
