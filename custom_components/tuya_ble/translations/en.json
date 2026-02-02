@@ -43,6 +43,9 @@
             },
             "bluetooth_unlock": {
                 "name": "Unlock"
+            },
+            "ble_unlock_check": {
+                "name": "Unlock"
             }
         },
         "number": {
@@ -138,7 +141,8 @@
                 "state": {
                     "wrong_finger": "Wrong Fingerprint",
                     "wrong_password": "Wrong Password",
-                    "low_battery": "Low Battery"
+                    "low_battery": "Low Battery",
+                    "power_off": "Power off"
                 }
             },
             "battery": {
